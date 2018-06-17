@@ -1,0 +1,1 @@
+This is a Work-In-Progress clone of [Empire Attack](http://www.empireattack.com/).
