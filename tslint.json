@@ -1,0 +1,20 @@
+{
+  "extends": "tslint:latest",
+  "rules": {
+    "quotemark": {
+      "options": "single"
+    },
+    "arrow-parens": {
+      "options": "ban-single-arg-parens"
+    },
+    "object-literal-sort-keys": false,
+    "no-submodule-imports": false,
+    "indent": {
+      "options": [
+        "spaces",
+        2
+      ]
+    },
+    "align": false
+  }
+}

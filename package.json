@@ -1,0 +1,25 @@
+{
+  "scripts": {
+    "dev": "parcel clientapp/src/index.html -d clientapp/dist",
+    "eslint": "eslint --ext .vue clientapp/src"
+  },
+  "devDependencies": {
+    "@types/lodash": "^4.14.109",
+    "@vue/component-compiler-utils": "^2.0.0",
+    "eslint": "^4.19.1",
+    "eslint-plugin-vue": "^4.5.0",
+    "parcel-bundler": "1.9.1",
+    "tslint": "^5.10.0",
+    "typescript": "^2.9.2",
+    "typescript-eslint-parser": "^16.0.0",
+    "vue-template-compiler": "^2.5.16"
+  },
+  "dependencies": {
+    "lodash": "^4.17.10",
+    "vue": "^2.5.16",
+    "vue-class-component": "^6.2.0",
+    "vue-hot-reload-api": "^2.3.0",
+    "vue-router": "^3.0.1",
+    "vuetify": "^1.0.19"
+  }
+}
